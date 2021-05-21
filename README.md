@@ -2,11 +2,11 @@
 Traffic Flow Prediction with Neural Networks(SAEs、LSTM、GRU).
 
 ## Update Work:
-- combine model predict
-- data analyze by jupyter notebook
-- road network process(wait for upload)
+- Combine model predict
+- Data analyze by jupyter notebook
+- Road network process(wait for upload)
 
-related work are published on ![Traffic Flow Prediction Based on Deep Learning in Internet of Vehicles](https://ieeexplore.ieee.org/document/9214879)
+Related work are published on [Traffic Flow Prediction Based on Deep Learning in Internet of Vehicles](https://ieeexplore.ieee.org/document/9214879)
 
 ## Requirement
 - Python 3.6    
